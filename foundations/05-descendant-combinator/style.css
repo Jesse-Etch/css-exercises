@@ -1,0 +1,15 @@
+div {
+    background-color: #ff0000;
+}
+
+div p {
+    background-color: #ffff00;
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    color: #0000ff;
+}
+
